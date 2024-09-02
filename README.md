@@ -8,6 +8,10 @@ This was my first attempt working with CNNs, so naturally my initial model requi
 
 I encountered some setbacks, mainly related to my machine's processing power and memory, but I believe work like this could be a valuable addition to the digitisation of histopathology services, improving efficiency and reducing both the workload for pathologists and the wait time for patients.
 
+Notebook: this includes all code written for this project.
+
+Presentation: this is the PowerPoint I created for presenting this project.
+
 Dataset source:
 - https://www.kaggle.com/datasets/paultimothymooney/breast-histopathology-images/data
 - https://pubmed.ncbi.nlm.nih.gov/27563488/
